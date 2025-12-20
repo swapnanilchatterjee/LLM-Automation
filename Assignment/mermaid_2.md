@@ -1,0 +1,11 @@
+graph TD
+  Alzheimer_s_disease["Alzheimer's disease"] -- "associated with" --> ageing["ageing"]
+  National_Academy_of_Sciences["National Academy of Sciences"] -- "studied by" --> ageing["ageing"]
+  Huntington_s_disease["Huntington's disease"] -- "treated with" --> gene_therapy["gene therapy"]
+  brain_scans["brain scans"] -- "used for" --> neurodegeneration["neurodegeneration"]
+  lithium_supplement["lithium supplement"] -- "related to" --> Alzheimer_s_disease["Alzheimer's disease"]
+  Washington_University_School_of_Medicine["Washington University School of Medicine"] -- "affiliated with" --> St_Louis["St. Louis"]
+  Columbia_University_Medical_Center["Columbia University Medical Center"] -- "located in" --> New_York_City["New York City"]
+  psychiatric_conditions["psychiatric conditions"] -- "linked to" --> neurodegeneration["neurodegeneration"]
+  sterilization["sterilization"] -- "increases lifespan" --> contraception["contraception"]
+  mental_fatigue["mental fatigue"] -- "studied at" --> Columbia_University_Medical_Center["Columbia University Medical Center"]

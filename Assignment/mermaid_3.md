@@ -1,0 +1,12 @@
+graph TD
+  Precision_Agriculture["Precision Agriculture"] -- "employs" --> GPS["GPS"]
+  Precision_Agriculture["Precision Agriculture"] -- "enhances" --> Farming_Management["Farming Management"]
+  Precision_Agriculture["Precision Agriculture"] -- "promotes" --> Sustainable_Agriculture["Sustainable Agriculture"]
+  Precision_Agriculture["Precision Agriculture"] -- "utilizes" --> Remote_Sensing["Remote Sensing"]
+  Precision_Agriculture["Precision Agriculture"] -- "optimizes" --> Agricultural_Production["Agricultural Production"]
+  Precision_Agriculture["Precision Agriculture"] -- "relies_on" --> Crop_Science["Crop Science"]
+  Precision_Agriculture["Precision Agriculture"] -- "supports" --> Environmental_Protection["Environmental Protection"]
+  Precision_Agriculture["Precision Agriculture"] -- "impacts" --> Economics["Economics"]
+  Precision_Agriculture["Precision Agriculture"] -- "involves" --> Big_Data["Big Data"]
+  Precision_Agriculture["Precision Agriculture"] -- "leverages" --> Geographical_Information_System["Geographical Information System"]
+  Precision_Agriculture["Precision Agriculture"] -- "considers" --> Soil_Science["Soil Science"]

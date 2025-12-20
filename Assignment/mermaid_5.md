@@ -1,0 +1,10 @@
+graph TD
+  Chronic_food_insecurity["Chronic food insecurity"] -- "related to" --> Poverty["Poverty"]
+  Food_security["Food security"] -- "related to" --> World_Food_Summit["World Food Summit"]
+  Food_security["Food security"] -- "related to" --> FAO["FAO"]
+  Food_security["Food security"] -- "related to" --> World_Bank["World Bank"]
+  Food_security["Food security"] -- "affected by" --> Green_Revolution["Green Revolution"]
+  Food_security["Food security"] -- "related to" --> Malnutrition["Malnutrition"]
+  Chronic_food_insecurity["Chronic food insecurity"] -- "distinguished from" --> Transitory_food_insecurity["Transitory food insecurity"]
+  Food_security["Food security"] -- "related to" --> Human_security["Human security"]
+  Food_security["Food security"] -- "related to" --> Household_food_security["Household food security"]

@@ -1,0 +1,13 @@
+graph TD
+  Indian_Astronomical_Observatory["Indian Astronomical Observatory"] -- "located_in" --> Hanle["Hanle"]
+  Hanle["Hanle"] -- "part_of" --> Ladakh["Ladakh"]
+  Hanle["Hanle"] -- "located_in" --> Himalayas["Himalayas"]
+  Hanle["Hanle"] -- "designated_as" --> dark_sky_reserve["dark sky reserve"]
+  Indian_Institute_of_Astrophysics["Indian Institute of Astrophysics"] -- "partner_of" --> Indian_Astronomical_Observatory["Indian Astronomical Observatory"]
+  Indian_Institute_of_Astrophysics["Indian Institute of Astrophysics"] -- "located_in" --> Bengaluru["Bengaluru"]
+  2_metre_Himalayan_Chandra_telescope["2-metre Himalayan Chandra telescope"] -- "installed_at" --> Indian_Astronomical_Observatory["Indian Astronomical Observatory"]
+  2_metre_Himalayan_Chandra_telescope["2-metre Himalayan Chandra telescope"] -- "located_at" --> Digpa_ratsa_Ri["Digpa-ratsa Ri"]
+  astro_tourism["astro-tourism"] -- "promotes" --> Indian_Astronomical_Observatory["Indian Astronomical Observatory"]
+  Tsering_Dolkar["Tsering Dolkar"] -- "hosts" --> star_party["star party"]
+  Niruj_Mohan_Ramanujam["Niruj Mohan Ramanujam"] -- "works_at" --> Indian_Institute_of_Astrophysics["Indian Institute of Astrophysics"]
+  Indian_Astronomical_Observatory["Indian Astronomical Observatory"] -- "photographed_by" --> Dorje_Angchuk["Dorje Angchuk"]
