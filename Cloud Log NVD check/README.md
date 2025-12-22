@@ -315,7 +315,7 @@ Output: [
 
 ### Security Event Detector
 
-**Hugging Face**: `yourusername/security-event-detector`
+**Hugging Face**: `Swapnanil09/security-event-detector`
 
 | Feature | Value |
 |---------|-------|
@@ -328,7 +328,7 @@ Output: [
 
 ### Vulnerability Extractor
 
-**Hugging Face**: `yourusername/vulnerability-extractor`
+**Hugging Face**: `Swapnanil09/vulnerability-extractor`
 
 | Feature | Value |
 |---------|-------|
