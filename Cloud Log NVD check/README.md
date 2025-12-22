@@ -716,9 +716,9 @@ If you use this project in your research or work, please cite:
 
 ---
 
-## ⭐ Star History
+## ✨Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/security-log-analysis&type=Date)](https://star-history.com/#yourusername/security-log-analysis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=swapnanilchatterjee/LLM-Automation&type=date&legend=top-left)](https://www.star-history.com/#swapnanilchatterjee/LLM-Automation&type=date&legend=top-left)
 
 ---
 
