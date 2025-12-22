@@ -630,7 +630,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/security-log-analysis.git
+git clone https://github.com/swapnanilchatterjee/LLM-Automation.git
 cd security-log-analysis
 
 # Create branch
@@ -682,7 +682,7 @@ If you use this project in your research or work, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/security-log-analysis}}
+  howpublished = {\url{https://github.com/swapnanilchatterjee/LLM-Automation/tree/main/Cloud%20Log%20NVD%20check}}
 }
 ```
 
@@ -700,17 +700,15 @@ If you use this project in your research or work, please cite:
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
+- **Author**: Swapnanil Chatterjee
+- **Email**: swapnanilchatterjee09@gmail.com
+- **GitHub**: [@swapnanilchatterjee](https://github.com/swapnanilchatterjee)
+- **LinkedIn**: [Swapnanil Chatterjee](https://www.linkedin.com/in/swapnanil-chatterjee-b53913254/)
 ---
 
 ## 🔗 Links
 
-- 📦 [Hugging Face Models](https://huggingface.co/yourusername)
+- 📦 [Hugging Face Models](https://huggingface.co/Swapnanil09)
 - 📖 [Documentation](https://yourusername.github.io/security-log-analysis)
 - 🐛 [Issue Tracker](https://github.com/yourusername/security-log-analysis/issues)
 - 💬 [Discussions](https://github.com/yourusername/security-log-analysis/discussions)
@@ -726,7 +724,7 @@ If you use this project in your research or work, please cite:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Swapnanil Chatterjee]**
 
 If you find this project useful, please consider giving it a ⭐!
 
